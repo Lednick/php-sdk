@@ -8,7 +8,7 @@ namespace Oft\Client\Resources;
  *
  * @package Oft\Client\Resources
  */
-class PaymentProcessors extends AbstractResource
+class PaymentMethodIssuers extends AbstractResource
 {
-    const RESOURCE_URL = 'payment-processors';
+    const RESOURCE_URL = 'payment-method-issuers';
 }
