@@ -31,7 +31,7 @@ This sdk uses [woohoolabs/yang](https://github.com/woohoolabs/yang)  library.
 1. OrganizationIndustries
 1. Organizations
 1. PaymentMethods
-1. PaymentProcessors
+1. PaymentMethodIssuers
 1. PaymentProviders
 
 ```php
